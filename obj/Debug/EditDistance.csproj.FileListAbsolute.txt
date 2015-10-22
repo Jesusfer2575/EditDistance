@@ -1,0 +1,8 @@
+c:\users\agente005\documents\visual studio 2015\Projects\EditDistance\EditDistance\bin\Debug\EditDistance.exe
+c:\users\agente005\documents\visual studio 2015\Projects\EditDistance\EditDistance\bin\Debug\EditDistance.pdb
+c:\users\agente005\documents\visual studio 2015\Projects\EditDistance\EditDistance\obj\Debug\EditDistance.csprojResolveAssemblyReference.cache
+c:\users\agente005\documents\visual studio 2015\Projects\EditDistance\EditDistance\obj\Debug\EditDistance.Form1.resources
+c:\users\agente005\documents\visual studio 2015\Projects\EditDistance\EditDistance\obj\Debug\EditDistance.Properties.Resources.resources
+c:\users\agente005\documents\visual studio 2015\Projects\EditDistance\EditDistance\obj\Debug\EditDistance.csproj.GenerateResource.Cache
+c:\users\agente005\documents\visual studio 2015\Projects\EditDistance\EditDistance\obj\Debug\EditDistance.exe
+c:\users\agente005\documents\visual studio 2015\Projects\EditDistance\EditDistance\obj\Debug\EditDistance.pdb
